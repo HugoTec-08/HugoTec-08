@@ -1,3 +1,5 @@
-## Bem vindo ao meu perfil! ⚡
+## Bem vindo ao meu perfil! ⚡                                                                                                                                                            
+**Meu nome é HugoTec-08!**
 
-Meu nome é Eduardo
+- Estou estudando na Alura.
+- Nesta conta compartilharei meus projetos.
